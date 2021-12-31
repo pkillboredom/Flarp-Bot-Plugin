@@ -1,0 +1,4 @@
+name: Flarp-Bot-Plugin
+version: 1.0
+main: com.pkillboredom.flarppluginbot.BotPluginMain
+api-version: '1.18'

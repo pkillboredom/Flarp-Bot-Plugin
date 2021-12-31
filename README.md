@@ -1,0 +1,1 @@
+This is a Spigot/PaperMC plugin that will primarily be used to make API calls to the WebAPI portion of [FlarpBot](https://github.com/pkillboredom/FlarpBot).
