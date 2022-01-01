@@ -34,7 +34,7 @@ public class BotPluginMain extends JavaPlugin {
         getLogger().info("Flap-Bot-Plugin Enabled.");
     }
 
-    @Override
+    /*@Override
     public void onDisable() {
         final String json = gson.toJson(ConfigMap);
         configFile.delete();
@@ -43,5 +43,5 @@ public class BotPluginMain extends JavaPlugin {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+    }*/
 }
